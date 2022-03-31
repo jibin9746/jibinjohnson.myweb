@@ -644,7 +644,7 @@ p.copyright a:hover {
 
 .animated.hinge {
     -webkit-animation-duration: 2s;
-    animation-duration: 2s;
+    
 }
 
 @-webkit-keyframes zoomIn {
