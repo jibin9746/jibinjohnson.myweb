@@ -467,7 +467,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus {
 /*-- contact section --*/
 
 section.comment-w3l {
-	background-image: url(images/contact.png);
+	background-color: blueviolet;
 	padding: 3em 0;
 }
 section.comment-w3l h5 a {
