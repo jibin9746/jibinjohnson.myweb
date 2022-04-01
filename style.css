@@ -1,8 +1,7 @@
-body {
- 
-  overflow-x: hidden; /* Hide horizontal scrollbar */
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
-
 
 /*--baner--*/
 .banner {
